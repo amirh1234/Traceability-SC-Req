@@ -7,7 +7,9 @@
 # using SCICT.NLP.Utility.StringDistance;
 ## double hamming = layout.GetWordSimilarity("Add", "Adding", SCICT.NLP.Utility.StringDistance.StringDistanceAlgorithm.Hamming);
 ## double hamming = layout.GetWordSimilarity("کتابهایمان", "کتاب", SCICT.NLP.Utility.StringDistance.StringDistanceAlgorithm.Hamming);
-
+------------------------
+## string words = "Add"; 
+## string words = "Adding"; 
 
 ```
 
