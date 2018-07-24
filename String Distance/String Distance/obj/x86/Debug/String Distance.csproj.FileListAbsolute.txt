@@ -1,0 +1,55 @@
+F:\Machine Translation\String Distance\String Distance\bin\Debug\String Distance.exe
+F:\Machine Translation\String Distance\String Distance\bin\Debug\String Distance.pdb
+F:\Machine Translation\String Distance\String Distance\bin\Debug\SCICT.NLP.Utility.StringDistance.dll
+F:\Machine Translation\String Distance\String Distance\bin\Debug\SCICT.PersianTools.dll
+F:\Machine Translation\String Distance\String Distance\bin\Debug\SCICT.Utility.dll
+F:\Machine Translation\String Distance\String Distance\bin\Debug\SCICT.NLP.Utility.StringDistance.xml
+F:\Machine Translation\String Distance\String Distance\bin\Debug\SCICT.PersianTools.xml
+F:\Machine Translation\String Distance\String Distance\bin\Debug\SCICT.Utility.xml
+F:\Machine Translation\String Distance\String Distance\obj\x86\Debug\String_Distance.Form1.resources
+F:\Machine Translation\String Distance\String Distance\obj\x86\Debug\String_Distance.Properties.Resources.resources
+F:\Machine Translation\String Distance\String Distance\obj\x86\Debug\String Distance.exe
+F:\Machine Translation\String Distance\String Distance\obj\x86\Debug\String Distance.pdb
+F:\Machine Translation\String Distance\String Distance\obj\x86\Debug\String Distance.csprojResolveAssemblyReference.cache
+F:\Machine Translation\String Distance\String Distance\obj\x86\Debug\String Distance.csproj.GenerateResource.Cache
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.exe
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.pdb
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\String Distance.exe
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\String Distance.pdb
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.PersianTools.dll
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.Utility.dll
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.NLP.Utility.StringDistance.xml
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.PersianTools.xml
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.Utility.xml
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.csprojResolveAssemblyReference.cache
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String_Distance.Form1.resources
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String_Distance.Properties.Resources.resources
+E:\Downloads\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.csproj.GenerateResource.Cache
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.exe
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.pdb
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\String Distance.exe
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\String Distance.pdb
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.PersianTools.dll
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.Utility.dll
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.NLP.Utility.StringDistance.xml
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.PersianTools.xml
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\bin\Debug\SCICT.Utility.xml
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.csprojResolveAssemblyReference.cache
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String_Distance.Form1.resources
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String_Distance.Properties.Resources.resources
+D:\Shiraz University\Secure Coding\Project\String Distance\String Distance\obj\x86\Debug\String Distance.csproj.GenerateResource.Cache
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\obj\x86\Debug\String Distance.exe
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\obj\x86\Debug\String Distance.pdb
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\bin\Debug\String Distance.exe
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\bin\Debug\String Distance.pdb
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\bin\Debug\SCICT.PersianTools.dll
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\bin\Debug\SCICT.Utility.dll
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\bin\Debug\SCICT.NLP.Utility.StringDistance.xml
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\bin\Debug\SCICT.PersianTools.xml
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\bin\Debug\SCICT.Utility.xml
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\obj\x86\Debug\String Distance.csprojResolveAssemblyReference.cache
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\obj\x86\Debug\String_Distance.Form1.resources
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\obj\x86\Debug\String_Distance.Properties.Resources.resources
+D:\Innsbruck\Similarty Measure-v01\String Distance\String Distance\obj\x86\Debug\String Distance.csproj.GenerateResource.Cache
+D:\Innsbruck\PhD Source\Git\String Distance\String Distance\obj\x86\Debug\String Distance.exe
+D:\Innsbruck\PhD Source\Git\String Distance\String Distance\obj\x86\Debug\String Distance.pdb
