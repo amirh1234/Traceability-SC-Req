@@ -1,0 +1,30 @@
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.exe.config
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.exe
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.pdb
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.csprojResolveAssemblyReference.cache
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\obj\Debug\Similarity_Measure.Form1.resources
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\obj\Debug\Similarity_Measure.Properties.Resources.resources
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.csproj.GenerateResource.Cache
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.exe
+D:\Innsbruck\A & A\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.pdb
+D:\Innsbruck\Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.exe.config
+D:\Innsbruck\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.exe
+D:\Innsbruck\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.pdb
+D:\Innsbruck\Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.exe
+D:\Innsbruck\Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.pdb
+D:\Innsbruck\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.csprojResolveAssemblyReference.cache
+D:\Innsbruck\Similarity Measure\Similarity Measure\obj\Debug\Similarity_Measure.Form1.resources
+D:\Innsbruck\Similarity Measure\Similarity Measure\obj\Debug\Similarity_Measure.Properties.Resources.resources
+D:\Innsbruck\Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.csproj.GenerateResource.Cache
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.exe.config
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.exe
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.pdb
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.exe
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.pdb
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.csprojResolveAssemblyReference.cache
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity_Measure.Form1.resources
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity_Measure.Properties.Resources.resources
+D:\Innsbruck\Similarty Measure-v01\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.csproj.GenerateResource.Cache
+D:\Innsbruck\PhD Source\Git\Proposed Similarity Measure\Similarity Measure\bin\Debug\Similarity Measure.exe.config
+D:\Innsbruck\PhD Source\Git\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.exe
+D:\Innsbruck\PhD Source\Git\Proposed Similarity Measure\Similarity Measure\obj\Debug\Similarity Measure.pdb
