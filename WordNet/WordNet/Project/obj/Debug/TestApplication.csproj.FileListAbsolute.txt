@@ -1,0 +1,50 @@
+F:\Machine Translation\WordNet\Project\obj\Debug\ResolveAssemblyReference.cache
+F:\Machine Translation\WordNet\Project\obj\Debug\TestApplication.Properties.Resources.resources
+F:\Machine Translation\WordNet\Project\obj\Debug\TestApplication.TestForm.resources
+F:\Machine Translation\WordNet\Project\obj\Debug\GenerateResource.read.1.tlog
+F:\Machine Translation\WordNet\Project\obj\Debug\GenerateResource.write.1.tlog
+F:\Machine Translation\WordNet\Project\DLL\TestApplication.exe
+F:\Machine Translation\WordNet\Project\DLL\TestApplication.pdb
+F:\Machine Translation\WordNet\Project\DLL\LAIR.IO.dll
+F:\Machine Translation\WordNet\Project\DLL\LAIR.Collections.xml
+F:\Machine Translation\WordNet\Project\DLL\LAIR.Extensions.xml
+F:\Machine Translation\WordNet\Project\DLL\LAIR.ResourceAPIs.WordNet.pdb
+F:\Machine Translation\WordNet\Project\DLL\LAIR.ResourceAPIs.WordNet.xml
+F:\Machine Translation\WordNet\Project\DLL\LAIR.IO.xml
+F:\Machine Translation\WordNet\Project\obj\Debug\TestApplication.exe
+F:\Machine Translation\WordNet\Project\obj\Debug\TestApplication.pdb
+F:\Machine Translation\WordNet\Project\DLL\TestApplication.XML
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\TestApplication.XML
+F:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\TestApplication.exe
+F:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\TestApplication.pdb
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\TestApplication.exe
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\TestApplication.pdb
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\LAIR.IO.dll
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\LAIR.Collections.xml
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\LAIR.Extensions.xml
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\LAIR.ResourceAPIs.WordNet.pdb
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\LAIR.ResourceAPIs.WordNet.xml
+F:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\LAIR.IO.xml
+F:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\ResolveAssemblyReference.cache
+F:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\TestApplication.Properties.Resources.resources
+F:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\TestApplication.TestForm.resources
+F:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\GenerateResource.read.1.tlog
+F:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\GenerateResource.write.1.tlog
+D:\Machine Translation\Dianati Seminar\WordNet\Project\DLL\TestApplication.XML
+D:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\TestApplication.exe
+D:\Machine Translation\Dianati Seminar\WordNet\Project\obj\Debug\TestApplication.pdb
+F:\IR Project\Project\DLL\TestApplication.XML
+F:\IR Project\Project\obj\Debug\TestApplication.exe
+F:\IR Project\Project\obj\Debug\TestApplication.pdb
+F:\IR Project\Project\DLL\TestApplication.exe
+F:\IR Project\Project\DLL\TestApplication.pdb
+F:\IR Project\Project\DLL\LAIR.IO.dll
+F:\IR Project\Project\DLL\LAIR.Collections.xml
+F:\IR Project\Project\DLL\LAIR.Extensions.xml
+F:\IR Project\Project\DLL\LAIR.ResourceAPIs.WordNet.pdb
+F:\IR Project\Project\DLL\LAIR.ResourceAPIs.WordNet.xml
+F:\IR Project\Project\DLL\LAIR.IO.xml
+F:\IR Project\Project\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+F:\IR Project\Project\obj\Debug\TestApplication.Properties.Resources.resources
+F:\IR Project\Project\obj\Debug\TestApplication.TestForm.resources
+F:\IR Project\Project\obj\Debug\TestApplication.csproj.GenerateResource.Cache

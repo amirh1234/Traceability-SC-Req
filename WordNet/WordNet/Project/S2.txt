@@ -1,0 +1,2 @@
+palm, thenar,
+attention_deficit_disorder, ADD, attention_deficit_hyperactivity_disorder, ADHD, hyperkinetic_syndrome, minimal_brain_dysfunction, minimal_brain_damage, MBD,

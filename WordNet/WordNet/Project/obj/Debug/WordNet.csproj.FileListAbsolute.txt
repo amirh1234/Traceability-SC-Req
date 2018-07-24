@@ -1,0 +1,9 @@
+F:\Machine Translation\WordNet\Project\DLL\LAIR.ResourceAPIs.WordNet.dll
+F:\Machine Translation\WordNet\Project\DLL\LAIR.ResourceAPIs.WordNet.pdb
+F:\Machine Translation\WordNet\Project\DLL\LAIR.Collections.xml
+F:\Machine Translation\WordNet\Project\DLL\LAIR.Extensions.xml
+F:\Machine Translation\WordNet\Project\DLL\LAIR.IO.xml
+F:\Machine Translation\WordNet\Project\obj\Debug\ResolveAssemblyReference.cache
+F:\Machine Translation\WordNet\Project\obj\Debug\LAIR.ResourceAPIs.WordNet.dll
+F:\Machine Translation\WordNet\Project\obj\Debug\LAIR.ResourceAPIs.WordNet.pdb
+F:\Machine Translation\WordNet\Project\DLL\LAIR.ResourceAPIs.WordNet.XML

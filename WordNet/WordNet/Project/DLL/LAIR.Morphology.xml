@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LAIR.Morphology</name>
+    </assembly>
+    <members>
+        <member name="T:LAIR.Morphology.PorterStemmer">
+             Stemmer, implementing the Porter Stemming Algorithm
+            
+             The Stemmer class transforms a word into its root form.  The input
+             word can be provided a character at time (by calling add()), or at once
+             by calling one of the various stem(something) methods.
+        </member>
+        <member name="T:LAIR.Morphology.Stemmer">
+            <summary>
+            Stems words
+            </summary>
+        </member>
+        <member name="M:LAIR.Morphology.Stemmer.#ctor(LAIR.Misc.StopWordHandler,System.Int32,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="stopWordHandler">Stop word handler to apply, or null for no stop word handling.</param>
+            <param name="maxStemCacheSize">Maximum size of the stem cache</param>
+            <param name="consultHeadWordList">Whether or not to consult the head word list when stemming</param>
+        </member>
+        <member name="M:LAIR.Morphology.Stemmer.Stem(System.String)">
+            <summary>
+            Stems a word
+            </summary>
+            <param name="word">Word to stem</param>
+            <returns>Stem of word</returns>
+        </member>
+        <member name="M:LAIR.Morphology.Stemmer.AddToStemCache(System.String,System.String)">
+            <summary>
+            Adds a word/stem pair to the stem cache
+            </summary>
+            <param name="word">Word to add</param>
+            <param name="stem">Stem to add</param>
+        </member>
+        <member name="P:LAIR.Morphology.Stemmer.StopWordHandler">
+            <summary>
+            Gets the stop word handler for this stemmer
+            </summary>
+        </member>
+        <member name="P:LAIR.Morphology.Stemmer.ConsultHeadWordList">
+            <summary>
+            Gets or sets whether or not to consult the headword list
+            </summary>
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.#ctor(LAIR.Misc.StopWordHandler,System.Int32,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="stopWordHandler"></param>
+            <param name="maxStemCacheSize"></param>
+            <param name="consultHeadWordList"></param>
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.add(System.Char)">
+            Add a character to the word being stemmed.  When you are finished
+            adding characters, you can call stem(void) to stem the word.
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.add(System.Char[],System.Int32)">
+            Adds wLen characters to the word being stemmed contained in a portion
+            of a char[] array. This is like repeated calls of add(char ch), but
+            faster.
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.ToString">
+            After a word has been stemmed, it can be retrieved by toString(),
+            or a reference to the internal buffer can be retrieved by getResultBuffer
+            and getResultLength (which is generally more efficient.)
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.getResultLength">
+            Returns the length of the word resulting from the stemming process.
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.getResultBuffer">
+            Returns a reference to a character buffer containing the results of
+            the stemming process.  You also need to consult getResultLength()
+            to determine the length of the result.
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.Stem(System.String)">
+            <summary>
+            Stem the word placed into the Stemmer buffer through calls to add().
+            Returns true if the stemming process resulted in a word different
+            from the input.  You can retrieve the result with
+            getResultLength()/getResultBuffer() or toString().
+            </summary>
+            <param name="word">Word to stem</param>
+            <returns>Stem of word</returns>
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.ResetStemmer">
+            <summary>
+            Resets the stemmer
+            </summary>
+        </member>
+        <member name="M:LAIR.Morphology.PorterStemmer.RunStemmer">
+            <summary>
+            Runs Porter stemming algorithm
+            </summary>
+        </member>
+        <member name="P:LAIR.Morphology.PorterStemmer.Result">
+            <summary>
+            Gets the result of stemming
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LAIR.Morphology.HeadWords">
+            <summary>
+            Keeps a list of head words
+            </summary>
+        </member>
+        <member name="M:LAIR.Morphology.HeadWords.IsHeadword(System.String)">
+            <summary>
+            Gets whether or not a word is a head word
+            </summary>
+            <param name="s">String to check</param>
+            <returns>True if given word is a head word, false otherwise</returns>
+        </member>
+        <member name="M:LAIR.Morphology.HeadWords.#cctor">
+            <summary>
+            Initializes head word list
+            </summary>
+        </member>
+        <member name="T:LAIR.Morphology.HmmPosTagger">
+            <summary>
+            HMM-based part of speech tagger
+            </summary>
+        </member>
+        <member name="M:LAIR.Morphology.HmmPosTagger.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="modelDirectory">Model directory for tagger</param>
+        </member>
+        <member name="M:LAIR.Morphology.HmmPosTagger.Train(System.String)">
+            <summary>
+            Trains this tagger with data contained in a text file. The format of the file must be as follows:  "word1 tag1 word2 tag2" etc.
+            </summary>
+            <param name="trainingFilePath">Path to training file</param>
+        </member>
+        <member name="M:LAIR.Morphology.HmmPosTagger.Tag(System.String[])">
+            <summary>
+            Tags a list of tokens
+            </summary>
+            <param name="tokens">Tokens to tag</param>
+            <returns>List of categories, one for each tag</returns>
+        </member>
+        <member name="P:LAIR.Morphology.HmmPosTagger.TransitionProbabilitiesPath">
+            <summary>
+            Gets the path to the transition probabilities file
+            </summary>
+        </member>
+        <member name="P:LAIR.Morphology.HmmPosTagger.ObservationProbabilitiesPath">
+            <summary>
+            Gets the path to the observation probabilities file
+            </summary>
+        </member>
+        <member name="P:LAIR.Morphology.HmmPosTagger.KnownWordPath">
+            <summary>
+            Gets the path to the known words file
+            </summary>
+        </member>
+        <member name="T:LAIR.Morphology.Word">
+            <summary>
+            Represents a word
+            </summary>
+        </member>
+        <member name="M:LAIR.Morphology.Word.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="text">Text of word</param>
+        </member>
+        <member name="M:LAIR.Morphology.Word.#ctor(System.String,LAIR.ResourceAPIs.PennBank.TreeBank.TreeBankEngine.SyntacticCategory)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="text">Text of word</param>
+            <param name="category">Category of word</param>
+        </member>
+        <member name="M:LAIR.Morphology.Word.WordCheck">
+            <summary>
+            Checks whether or not this is a valid word
+            </summary>
+        </member>
+        <member name="M:LAIR.Morphology.Word.Equals(System.Object)">
+            <summary>
+            Equals override
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LAIR.Morphology.Word.GetHashCode">
+            <summary>
+            Gets hash code for this word
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LAIR.Morphology.Word.ToString">
+            <summary>
+            Gets the text of this word
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:LAIR.Morphology.Word.Text">
+            <summary>
+            Gets the text for this word
+            </summary>
+        </member>
+        <member name="P:LAIR.Morphology.Word.Category">
+            <summary>
+            Gets the category for this word
+            </summary>
+        </member>
+    </members>
+</doc>
